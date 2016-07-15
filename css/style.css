@@ -1,0 +1,28 @@
+body {
+	background: linear-gradient(to bottom, #1297b8 0%,#1297b8 3%,#128aa7 4%,
+		#128aa7 6%,#5ef0ff 6%,#12cde1 6%,#15cee2 7%,#25d1e4 8%,#38d5e6 9%,
+		#38d5e6 9%,#3dd6e7 9%,#40d7e7 10%,#4ddae9 10%,#4ddae9 10%,#57dbea 11%,
+		#56dcea 11%,#5dddeb 11%,#60deeb 11%,#84e5f0 13%,#89e6f0 13%,#8ee8f1 14%,
+		#95e9f2 14%,#bdf1f7 16%,#c2f2f7 16%,#c2f2f8 16%,#cdf4f9 16%,#cdf4f9 17%,
+		#dbf7fa 17%,#dbf7fa 17%,#f2fcfd 19%,#ffffff 20%,#40c5d3 20%,#40c5d3 21%,
+		#37bbcc 24%,#1fa2bb 29%,#1ea0ba 30%,#1a9cb8 30%,#1c9eb9 30%,#1495b3 32%,
+		#1191b1 34%,#1091b0 36%,#0c77a1 87%,#0c739f 100%);
+	background-repeat: no-repeat;
+}
+
+header {
+	color: #1297b8;
+	margin-top: 0.5%;
+	height: 16.5%;
+	
+
+}
+
+
+.container	{
+	/* position: relative; */
+	background-color: white;
+	width: 1000px;
+	height: 176px;
+	margin: 0 auto;
+} 
