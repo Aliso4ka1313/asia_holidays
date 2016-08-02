@@ -1,12 +1,8 @@
 body {
-	background: linear-gradient(to bottom, #1297b8 0%,#1297b8 3%,#128aa7 4%,
-		#128aa7 6%,#5ef0ff 6%,#12cde1 6%,#15cee2 7%,#25d1e4 8%,#38d5e6 9%,
-		#38d5e6 9%,#3dd6e7 9%,#40d7e7 10%,#4ddae9 10%,#4ddae9 10%,#57dbea 11%,
-		#56dcea 11%,#5dddeb 11%,#60deeb 11%,#84e5f0 13%,#89e6f0 13%,#8ee8f1 14%,
-		#95e9f2 14%,#bdf1f7 16%,#c2f2f7 16%,#c2f2f8 16%,#cdf4f9 16%,#cdf4f9 17%,
-		#dbf7fa 17%,#dbf7fa 17%,#f2fcfd 19%,#ffffff 20%,#40c5d3 20%,#40c5d3 21%,
-		#37bbcc 24%,#1fa2bb 29%,#1ea0ba 30%,#1a9cb8 30%,#1c9eb9 30%,#1495b3 32%,
-		#1191b1 34%,#1091b0 36%,#0c77a1 87%,#0c739f 100%);
+	background: linear-gradient(to bottom, #128aa7 0%,#128aa7 3%,#5ef0ff 3%,#11cee1 3%,
+		#18cfe2 4%,#2dd4e5 5%,#4fdae9 7%,#baf0f7 12%,#daf8fa 14%,#f1fcfd 16%,#ffffff 17%,
+		#40c6d3 17%,#38bbcd 21%,#1496b3 30%,#1191b1 32%,#0f8cad 48%,#0c77a1 86%,
+		#0c739f 100%);
 }
 
 .wrapper {
@@ -14,7 +10,7 @@ body {
 	background-color: white;
 	width: 1000px;
 	height: 100%;
-	margin: 30px auto 0px; 
+	margin: 0 auto; 
 } 
 
 header {
@@ -22,6 +18,7 @@ header {
 	color: #1297b8;
 	height: 175px;
 	position: relative;
+	margin-top: -7px;
 }
 
 .logo {	
@@ -39,7 +36,7 @@ header {
 .contacts {
 	font-size: 12px;
 	position: absolute;
-	top: 5px;
+	top: 12px;
 	left: 843px;
 	color: #329ab3;
 }
@@ -53,13 +50,12 @@ header {
 	font-size: 10px;
 	position: absolute;
 	color: #128aa7;
-	padding-top: 105px;
+	padding-top: 100px;
 	padding-left: 550px;
 
 }
 
 .flags li {
-	padding-top: 115px;
 	list-style: none;
 	float: left;
 	text-align: center; 
@@ -189,7 +185,7 @@ a {
 	margin-right: 0px;
 }
 
-.title {
+h1 {
 	font-family: 'Tahoma';
 	font-size: 18px;
 	color: #424c43;
